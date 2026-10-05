@@ -1,0 +1,146 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+    "settings": {
+        "appearanceTools": true,
+        "spacing": {
+            "padding": true,
+            "margin": true,
+            "units": [
+                "px",
+                "em",
+                "rem",
+                "vh",
+                "vw",
+                "%"
+            ]
+        },
+        "layout": {
+            "contentSize": "1280px",
+            "wideSize": "1280px"
+        },
+        "color": {
+            "duotone": [],
+            "defaultPalette": true,
+            "palette": [
+                {
+                    "slug": "primary",
+                    "color": "#6B2C2C",
+                    "name": "Primary"
+                },
+                {
+                    "slug": "primary-dark",
+                    "color": "#3D1515",
+                    "name": "Primary Dark"
+                },
+                {
+                    "slug": "accent",
+                    "color": "#D4A574",
+                    "name": "Accent"
+                },
+                {
+                    "slug": "dark",
+                    "color": "#111111",
+                    "name": "Dark"
+                },
+                {
+                    "slug": "light",
+                    "color": "#F7F2EE",
+                    "name": "Light"
+                },
+                {
+                    "slug": "white",
+                    "color": "#FFFFFF",
+                    "name": "White"
+                }
+            ]
+        },
+        "typography": {
+            "dropCap": false,
+            "fontFamilies": [
+                {
+                    "fontFamily": "Georgia, serif",
+                    "name": "Serif",
+                    "slug": "serif"
+                },
+                {
+                    "fontFamily": "ui-sans-serif, system-ui, sans-serif",
+                    "name": "Sans",
+                    "slug": "sans"
+                }
+            ],
+            "fontSizes": [
+                {
+                    "slug": "small",
+                    "size": "14px",
+                    "name": "Small"
+                },
+                {
+                    "slug": "medium",
+                    "size": "20px",
+                    "name": "Medium"
+                },
+                {
+                    "slug": "large",
+                    "size": "36px",
+                    "name": "Large"
+                },
+                {
+                    "slug": "x-large",
+                    "size": "48px",
+                    "name": "XLarge"
+                }
+            ]
+        },
+        "border": {
+            "color": true,
+            "radius": true,
+            "style": true,
+            "width": true
+        },
+        "shadow": {
+            "defaultPresets": true,
+            "presets": [
+                {
+                    "name": "Soft",
+                    "slug": "soft",
+                    "shadow": "0 20px 45px rgba(17,17,17,0.08)"
+                }
+            ]
+        }
+    },
+    "styles": {
+        "color": {
+            "background": "#ffffff",
+            "text": "#111111"
+        },
+        "spacing": {
+            "blockGap": "1.5rem"
+        },
+        "typography": {
+            "fontFamily": "var(--wp--preset--font-family--sans)",
+            "lineHeight": "1.6"
+        },
+        "elements": {
+            "link": {
+                "color": {
+                    "text": "var(--wp--preset--color--primary)"
+                }
+            },
+            "h1": {
+                "typography": {
+                    "fontSize": "var(--wp--preset--font-size--x-large)",
+                    "fontWeight": "700",
+                    "lineHeight": "1.1"
+                }
+            },
+            "h2": {
+                "typography": {
+                    "fontSize": "var(--wp--preset--font-size--large)",
+                    "fontWeight": "700",
+                    "lineHeight": "1.2"
+                }
+            }
+        }
+    }
+}
