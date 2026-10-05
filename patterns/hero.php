@@ -11,7 +11,7 @@ register_block_pattern(
 	<!-- wp:group {"className":"brv-hero__backdrop"} -->
 	<div class="wp-block-group brv-hero__backdrop">
 		<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
-		<figure class="wp-block-image size-full"><img src="https://images.unsplash.com/photo-1759134198561-e2041049419c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBiYXJiZXIlMjBzaG9wJTIwaW50ZXJpb3J8ZW58MXx8fHwxNzcyODAwOTc2fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="Interior sofisticado da Villela Barbearia" /></figure>
+		<figure class="wp-block-image size-full"><img src="https://trutech.shop/wp-content/uploads/2026/10/HERO.jpg" alt="Interior sofisticado da Villela Barbearia" /></figure>
 		<!-- /wp:image -->
 	</div>
 	<!-- /wp:group -->

@@ -19,7 +19,7 @@ register_block_pattern(
 				<!-- wp:group {"className":"brv-about__image"} -->
 				<div class="wp-block-group brv-about__image">
 					<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
-					<figure class="wp-block-image size-full"><img src="https://images.unsplash.com/photo-1759134198561-e2041049419c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjBiYXJiZXIlMjBzaG9wJTIwaW50ZXJpb3J8ZW58MXx8fHwxNzcyNjIyNzkwfDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="Interior da Barbearia" /></figure>
+					<figure class="wp-block-image size-full"><img src="https://trutech.shop/wp-content/uploads/2026/10/IMG_1856.jpg" alt="Interior da Barbearia" /></figure>
 					<!-- /wp:image -->
 					<div class="brv-about__image-shade" aria-hidden="true"></div>
 					<!-- wp:group {"className":"brv-about__badge"} -->

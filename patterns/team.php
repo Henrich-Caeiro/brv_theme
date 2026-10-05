@@ -23,16 +23,16 @@ register_block_pattern(
 			<div class="wp-block-group brv-team-card">
 				<!-- wp:group {"className":"brv-team-card__media"} -->
 				<div class="wp-block-group brv-team-card__media">
-					<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} --><figure class="wp-block-image size-full"><img src="https://images.unsplash.com/photo-1747832512459-5566e6d0ee5a?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBiYXJiZXIlMjBwb3J0cmFpdHxlbnwxfHx8fDE3NzI3MTU1NTd8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="Carlos Silva, barbeiro profissional" /></figure><!-- /wp:image -->
+					<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} --><figure class="wp-block-image size-full"><img src="https://trutech.shop/wp-content/uploads/2026/10/IMG_2471-scaled.jpg" alt="Roger Villela, barbeiro profissional" /></figure><!-- /wp:image -->
 					<div class="brv-team-card__shade" aria-hidden="true"></div>
 					<!-- wp:button {"url":"#","className":"brv-team-card__social","ariaLabel":"Instagram de Carlos Silva"} --><div class="wp-block-button brv-team-card__social"><a class="wp-block-button__link wp-element-button" href="#" aria-label="Instagram de Carlos Silva">Instagram</a></div><!-- /wp:button -->
 					<!-- wp:group {"className":"brv-team-card__overlay"} -->
-					<div class="wp-block-group brv-team-card__overlay"><!-- wp:paragraph {"className":"brv-team-card__badge"} --><p class="brv-team-card__badge">8 anos</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Carlos Silva</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Master Barber</p><!-- /wp:paragraph --><!-- wp:paragraph {"className":"brv-team-card__specialty"} --><p class="brv-team-card__specialty">Cortes Clássicos &amp; Fade</p><!-- /wp:paragraph --></div>
+					<div class="wp-block-group brv-team-card__overlay"><!-- wp:paragraph {"className":"brv-team-card__badge"} --><p class="brv-team-card__badge">8 anos</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Roger Villela</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Master Barber</p><!-- /wp:paragraph --><!-- wp:paragraph {"className":"brv-team-card__specialty"} --><p class="brv-team-card__specialty">Cortes Clássicos &amp; Fade</p><!-- /wp:paragraph --></div>
 					<!-- /wp:group -->
 				</div>
 				<!-- /wp:group -->
 				<!-- wp:group {"className":"brv-team-card__body"} -->
-				<div class="wp-block-group brv-team-card__body"><!-- wp:paragraph --><p>Especialista em cortes clássicos e modernos, Carlos é conhecido por sua precisão e atenção aos detalhes.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p><a href="#">@carlosbarber</a></p><!-- /wp:paragraph --></div>
+				<div class="wp-block-group brv-team-card__body"><!-- wp:paragraph --><p>Especialista em cortes clássicos e modernos, Roger Villela é conhecido por sua precisão e atenção aos detalhes.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p><a href="https://www.instagram.com/rogervilelaof/">@rogervilelaof</a></p><!-- /wp:paragraph --></div>
 				<!-- /wp:group -->
 			</div>
 			<!-- /wp:group -->
@@ -40,16 +40,16 @@ register_block_pattern(
 			<div class="wp-block-group brv-team-card">
 				<!-- wp:group {"className":"brv-team-card__media"} -->
 				<div class="wp-block-group brv-team-card__media">
-					<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} --><figure class="wp-block-image size-full"><img src="https://images.unsplash.com/photo-1761931403671-d020a14928d9?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtYWxlJTIwaGFpcnN0eWxpc3QlMjBwcm9mZXNzaW9uYWx8ZW58MXx8fHwxNzcyNzM2NDM5fDA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="João Santos, barbeiro e especialista em barba" /></figure><!-- /wp:image -->
+					<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} --><figure class="wp-block-image size-full"><img src="https://trutech.shop/wp-content/uploads/2026/10/IMG_6167-scaled.jpg" alt="João Santos, barbeiro e especialista em barba" /></figure><!-- /wp:image -->
 					<div class="brv-team-card__shade" aria-hidden="true"></div>
 					<!-- wp:button {"url":"#","className":"brv-team-card__social","ariaLabel":"Instagram de João Santos"} --><div class="wp-block-button brv-team-card__social"><a class="wp-block-button__link wp-element-button" href="#" aria-label="Instagram de João Santos">Instagram</a></div><!-- /wp:button -->
 					<!-- wp:group {"className":"brv-team-card__overlay"} -->
-					<div class="wp-block-group brv-team-card__overlay"><!-- wp:paragraph {"className":"brv-team-card__badge"} --><p class="brv-team-card__badge">6 anos</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3 class="wp-block-heading">João Santos</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Senior Barber</p><!-- /wp:paragraph --><!-- wp:paragraph {"className":"brv-team-card__specialty"} --><p class="brv-team-card__specialty">Barba &amp; Acabamento</p><!-- /wp:paragraph --></div>
+					<div class="wp-block-group brv-team-card__overlay"><!-- wp:paragraph {"className":"brv-team-card__badge"} --><p class="brv-team-card__badge">6 anos</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Vitor</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Senior Barber</p><!-- /wp:paragraph --><!-- wp:paragraph {"className":"brv-team-card__specialty"} --><p class="brv-team-card__specialty">Barba &amp; Acabamento</p><!-- /wp:paragraph --></div>
 					<!-- /wp:group -->
 				</div>
 				<!-- /wp:group -->
 				<!-- wp:group {"className":"brv-team-card__body"} -->
-				<div class="wp-block-group brv-team-card__body"><!-- wp:paragraph --><p>Mestre em design de barbas e contornos perfeitos, João transforma cada serviço em uma experiência única.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p><a href="#">@joaobarba</a></p><!-- /wp:paragraph --></div>
+				<div class="wp-block-group brv-team-card__body"><!-- wp:paragraph --><p>Mestre em design de barbas e contornos perfeitos, Vitor transforma cada serviço em uma experiência única.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p><a href="#">@vitorbarba</a></p><!-- /wp:paragraph --></div>
 				<!-- /wp:group -->
 			</div>
 			<!-- /wp:group -->
@@ -57,11 +57,11 @@ register_block_pattern(
 			<div class="wp-block-group brv-team-card">
 				<!-- wp:group {"className":"brv-team-card__media"} -->
 				<div class="wp-block-group brv-team-card__media">
-					<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} --><figure class="wp-block-image size-full"><img src="https://images.unsplash.com/photo-1741345980697-f3c43eba44a0?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiYXJiZXIlMjBwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdCUyMG1hbnxlbnwxfHx8fDE3NzI3MzY0NDB8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="Pedro Oliveira, barbeiro especialista em cortes modernos" /></figure><!-- /wp:image -->
+					<!-- wp:image {"sizeSlug":"full","linkDestination":"none"} --><figure class="wp-block-image size-full"><img src="https://trutech.shop/wp-content/uploads/2026/10/IMG_8254-scaled.jpg" alt="Pedro Oliveira, barbeiro especialista em cortes modernos" /></figure><!-- /wp:image -->
 					<div class="brv-team-card__shade" aria-hidden="true"></div>
 					<!-- wp:button {"url":"#","className":"brv-team-card__social","ariaLabel":"Instagram de Pedro Oliveira"} --><div class="wp-block-button brv-team-card__social"><a class="wp-block-button__link wp-element-button" href="#" aria-label="Instagram de Pedro Oliveira">Instagram</a></div><!-- /wp:button -->
 					<!-- wp:group {"className":"brv-team-card__overlay"} -->
-					<div class="wp-block-group brv-team-card__overlay"><!-- wp:paragraph {"className":"brv-team-card__badge"} --><p class="brv-team-card__badge">5 anos</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Pedro Oliveira</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Barber Specialist</p><!-- /wp:paragraph --><!-- wp:paragraph {"className":"brv-team-card__specialty"} --><p class="brv-team-card__specialty">Cortes Modernos &amp; Styling</p><!-- /wp:paragraph --></div>
+					<div class="wp-block-group brv-team-card__overlay"><!-- wp:paragraph {"className":"brv-team-card__badge"} --><p class="brv-team-card__badge">5 anos</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3 class="wp-block-heading">Matheus</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Barber Specialist</p><!-- /wp:paragraph --><!-- wp:paragraph {"className":"brv-team-card__specialty"} --><p class="brv-team-card__specialty">Cortes Modernos &amp; Styling</p><!-- /wp:paragraph --></div>
 					<!-- /wp:group -->
 				</div>
 				<!-- /wp:group -->
