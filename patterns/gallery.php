@@ -42,7 +42,7 @@ register_block_pattern(
 		</div>
 		<!-- /wp:group -->
 		<!-- wp:group {"className":"brv-gallery__cta"} -->
-		<div class="wp-block-group brv-gallery__cta"><!-- wp:paragraph --><p>Faça parte da nossa galeria de clientes satisfeitos</p><!-- /wp:paragraph --><!-- wp:buttons --><div class="wp-block-buttons"><!-- wp:button {"className":"primary-button"} --><div class="wp-block-button primary-button"><a class="wp-block-button__link wp-element-button" href="/agendar/">Agende Seu Horário Agora</a></div><!-- /wp:button --></div><!-- /wp:buttons --></div>
+		<div class="wp-block-group brv-gallery__cta"><!-- wp:paragraph --><p>Faça parte da nossa galeria de clientes satisfeitos</p><!-- /wp:paragraph --><!-- wp:buttons --><div class="wp-block-buttons"><!-- wp:button {"className":"primary-button"} --><div class="wp-block-button primary-button"><a class="wp-block-button__link wp-element-button" href="https://sites.appbarber.com.br/barbeariarogerv-ji0g" target="_blank" rel="noopener noreferrer">Agende Seu Horário Agora</a></div><!-- /wp:button --></div><!-- /wp:buttons --></div>
 		<!-- /wp:group -->
 	</div>
 	<!-- /wp:group -->

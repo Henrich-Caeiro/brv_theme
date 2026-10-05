@@ -25,7 +25,7 @@ function villela_barbearia_enqueue_assets() {
 add_action( 'wp_enqueue_scripts', 'villela_barbearia_enqueue_assets' );
 
 function villela_barbearia_register_patterns() {
-    foreach ( array( 'hero', 'about', 'team', 'testimonials', 'products', 'gallery', 'cta', 'footer' ) as $pattern ) {
+    foreach ( array( 'hero', 'about', 'structure', 'team', 'testimonials', 'products', 'gallery', 'artists', 'cta', 'footer' ) as $pattern ) {
         $file = get_theme_file_path( 'patterns/' . $pattern . '.php' );
         if ( file_exists( $file ) ) { require_once $file; }
     }

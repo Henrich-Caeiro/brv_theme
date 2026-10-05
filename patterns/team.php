@@ -73,7 +73,7 @@ register_block_pattern(
 		</div>
 		<!-- /wp:group -->
 		<!-- wp:group {"className":"brv-team__cta"} -->
-		<div class="wp-block-group brv-team__cta"><!-- wp:paragraph --><p>Escolha seu barbeiro preferido e agende seu horário</p><!-- /wp:paragraph --><!-- wp:buttons --><div class="wp-block-buttons"><!-- wp:button {"className":"primary-button"} --><div class="wp-block-button primary-button"><a class="wp-block-button__link wp-element-button" href="/agendar/">Agendar com um Profissional</a></div><!-- /wp:button --></div><!-- /wp:buttons --></div>
+		<div class="wp-block-group brv-team__cta"><!-- wp:paragraph --><p>Escolha seu barbeiro preferido e agende seu horário</p><!-- /wp:paragraph --><!-- wp:buttons --><div class="wp-block-buttons"><!-- wp:button {"className":"primary-button"} --><div class="wp-block-button primary-button"><a class="wp-block-button__link wp-element-button" href="https://sites.appbarber.com.br/barbeariarogerv-ji0g" target="_blank" rel="noopener noreferrer">Agendar com um Profissional</a></div><!-- /wp:button --></div><!-- /wp:buttons --></div>
 		<!-- /wp:group -->
 	</div>
 	<!-- /wp:group -->

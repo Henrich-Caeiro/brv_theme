@@ -1678,6 +1678,63 @@ img:focus-visible {
     gap: 8px;
 }
 
+.brv-structure__grid,
+.brv-artists__grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 32px;
+    margin-top: 32px;
+}
+
+.brv-structure__card,
+.brv-artist-card {
+    overflow: hidden;
+    border: 1px solid rgba(17, 17, 17, 0.06);
+    border-radius: 16px;
+    background: #fff;
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.08);
+}
+
+.brv-structure__visual {
+    min-height: 260px;
+    background: linear-gradient(135deg, rgba(107, 44, 44, 0.8), rgba(212, 165, 116, 0.6));
+}
+
+.brv-structure__visual--current {
+    background: linear-gradient(135deg, rgba(107, 44, 44, 0.85), rgba(39, 39, 39, 0.9));
+}
+
+.brv-structure__visual--future {
+    background: linear-gradient(135deg, rgba(212, 165, 116, 0.8), rgba(107, 44, 44, 0.8));
+}
+
+.brv-structure__content,
+.brv-artist-card__body {
+    padding: 24px;
+}
+
+.brv-structure__content h3,
+.brv-artist-card__body h3 {
+    margin: 0 0 8px;
+    font-size: 1.4rem;
+}
+
+.brv-structure__content p,
+.brv-artist-card__body p {
+    margin: 0;
+    color: #525252;
+    line-height: 1.6;
+}
+
+.brv-artist-card__media {
+    min-height: 220px;
+    background: linear-gradient(135deg, rgba(107, 44, 44, 0.9), rgba(212, 165, 116, 0.8));
+}
+
+.brv-artist-card__media--placeholder {
+    background: linear-gradient(135deg, rgba(107, 44, 44, 0.9), rgba(212, 165, 116, 0.8)), repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.06) 12px, transparent 12px, transparent 18px);
+}
+
 .brv-quantity {
     display: flex;
     flex: 0 0 auto;
@@ -1843,6 +1900,71 @@ img:focus-visible {
     stroke-width: 2;
     stroke-linecap: round;
     stroke-linejoin: round;
+}
+
+.brv-product-order {
+    width: min(100%, 760px);
+    margin: 48px auto 0;
+    padding: 24px;
+    border: 1px solid rgba(107, 44, 44, 0.15);
+    border-radius: 16px;
+    background: #fff;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.06);
+}
+
+.brv-product-order__notice {
+    margin: 0 0 20px;
+    color: #3f3f3f;
+    font-weight: 600;
+}
+
+.brv-product-order__items {
+    display: grid;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+
+.brv-product-order__empty {
+    margin: 0;
+    color: #525252;
+}
+
+.brv-product-order__item {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 12px 14px;
+    border-radius: 10px;
+    background: #f8f5f2;
+    color: #0a0a0a;
+}
+
+.brv-product-order__summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    padding-top: 18px;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+.brv-product-order__cta {
+    width: 100%;
+    margin-top: 24px;
+}
+
+.brv-product-order__cta:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+@media (max-width: 768px) {
+    .brv-structure__grid,
+    .brv-artists__grid {
+        grid-template-columns: 1fr;
+    }
 }
 
 .brv-gallery {

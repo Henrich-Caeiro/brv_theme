@@ -4,12 +4,12 @@
   <div class="wp-block-group site-header__inner brv-container">
     <!-- wp:group {"className":"site-brand__link","layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"center"}} -->
     <div class="wp-block-group site-brand__link">
-      <!-- wp:image {"sizeSlug":"full","linkDestination":"custom","href":"/","className":"site-brand__logo"} -->
-      <figure class="wp-block-image size-full site-brand__logo"><a href="/"><img src="/wp-content/themes/brv-theme/assets/logo.png" alt="Villela Barbearia" /></a></figure>
+      <!-- wp:image {"sizeSlug":"full","linkDestination":"custom","href":"/#home","className":"site-brand__logo"} -->
+      <figure class="wp-block-image size-full site-brand__logo"><a href="/#home"><img src="/wp-content/themes/brv-theme/assets/logo.png" alt="Barbearia Roger Vilela" /></a></figure>
       <!-- /wp:image -->
 
       <!-- wp:paragraph {"className":"site-brand__name"} -->
-      <p class="site-brand__name"><a href="/">Villela Barbearia</a></p>
+      <p class="site-brand__name"><a href="/#home">Barbearia Roger Vilela</a></p>
       <!-- /wp:paragraph -->
     </div>
     <!-- /wp:group -->
@@ -17,35 +17,18 @@
     <!-- wp:navigation {"className":"site-nav","overlayMenu":"mobile","layout":{"type":"flex","justifyContent":"center"}} -->
       <!-- wp:navigation-link {"label":"Início","url":"/#home","kind":"custom","isTopLevelLink":true} /-->
       <!-- wp:navigation-link {"label":"Sobre","url":"/#about","kind":"custom","isTopLevelLink":true} /-->
-      <!-- wp:navigation-link {"label":"Equipe","url":"/#team","kind":"custom","isTopLevelLink":true} /-->
+      <!-- wp:navigation-link {"label":"Profissionais","url":"/#team","kind":"custom","isTopLevelLink":true} /-->
       <!-- wp:navigation-link {"label":"Depoimentos","url":"/#testimonials","kind":"custom","isTopLevelLink":true} /-->
       <!-- wp:navigation-link {"label":"Produtos","url":"/#products","kind":"custom","isTopLevelLink":true} /-->
-      <!-- wp:navigation-link {"label":"Galeria","url":"/#gallery","kind":"custom","isTopLevelLink":true} /-->
-      <!-- wp:navigation-link {"label":"Agendar Horário","url":"/agendar/","kind":"custom","isTopLevelLink":true,"className":"site-nav__booking"} /-->
+      <!-- wp:navigation-link {"label":"Coleção","url":"/#gallery","kind":"custom","isTopLevelLink":true} /-->
     <!-- /wp:navigation -->
 
     <!-- wp:group {"className":"site-actions","layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"center"}} -->
     <div class="wp-block-group site-actions">
       <!-- wp:buttons {"className":"site-book-button-wrap"} -->
       <div class="wp-block-buttons site-book-button-wrap">
-        <!-- wp:button {"url":"/agendar/","className":"site-book-button"} -->
-        <div class="wp-block-button site-book-button"><a class="wp-block-button__link wp-element-button" href="/agendar/">Agendar</a></div>
-        <!-- /wp:button -->
-      </div>
-      <!-- /wp:buttons -->
-
-      <!-- wp:buttons {"className":"site-cart-button-wrap"} -->
-      <div class="wp-block-buttons site-cart-button-wrap">
-        <!-- wp:button {"url":"#brv-cart","className":"site-action site-action--cart","ariaLabel":"Abrir carrinho"} -->
-        <div class="wp-block-button site-action site-action--cart"><a class="wp-block-button__link wp-element-button" href="#brv-cart" aria-label="Abrir carrinho">Carrinho</a></div>
-        <!-- /wp:button -->
-      </div>
-      <!-- /wp:buttons -->
-
-      <!-- wp:buttons {"className":"site-user-button-wrap"} -->
-      <div class="wp-block-buttons site-user-button-wrap">
-        <!-- wp:button {"url":"/admin/","className":"site-action site-action--user","ariaLabel":"Área do cliente"} -->
-        <div class="wp-block-button site-action site-action--user"><a class="wp-block-button__link wp-element-button" href="/admin/" aria-label="Área do cliente">Área do cliente</a></div>
+        <!-- wp:button {"url":"https://sites.appbarber.com.br/barbeariarogerv-ji0g","className":"site-book-button"} -->
+        <div class="wp-block-button site-book-button"><a class="wp-block-button__link wp-element-button" href="https://sites.appbarber.com.br/barbeariarogerv-ji0g" target="_blank" rel="noopener noreferrer">Agendar</a></div>
         <!-- /wp:button -->
       </div>
       <!-- /wp:buttons -->
@@ -56,38 +39,3 @@
 </div>
 <!-- /wp:group -->
 
-<!-- wp:group {"className":"brv-modal","anchor":"brv-cart","layout":{"type":"constrained"}} -->
-<div class="wp-block-group brv-modal" id="brv-cart">
-  <!-- wp:group {"className":"brv-modal__dialog","layout":{"type":"constrained"}} -->
-  <div class="wp-block-group brv-modal__dialog">
-    <!-- wp:buttons {"className":"brv-modal__close-wrap"} -->
-    <div class="wp-block-buttons brv-modal__close-wrap">
-      <!-- wp:button {"url":"#","className":"brv-modal__close","ariaLabel":"Fechar"} -->
-      <div class="wp-block-button brv-modal__close"><a class="wp-block-button__link wp-element-button" href="#" aria-label="Fechar">Fechar</a></div>
-      <!-- /wp:button -->
-    </div>
-    <!-- /wp:buttons -->
-    <!-- wp:heading {"level":2,"anchor":"brv-cart-title"} -->
-    <h2 class="wp-block-heading" id="brv-cart-title">Seu carrinho</h2>
-    <!-- /wp:heading -->
-    <!-- wp:group {"className":"brv-cart-items","layout":{"type":"constrained"}} -->
-    <div class="wp-block-group brv-cart-items">
-      <!-- wp:paragraph -->
-      <p>Seu carrinho está vazio.</p>
-      <!-- /wp:paragraph -->
-    </div>
-    <!-- /wp:group -->
-    <!-- wp:paragraph {"className":"brv-cart-total"} -->
-    <p class="brv-cart-total">Total: <strong>R$ 0,00</strong></p>
-    <!-- /wp:paragraph -->
-    <!-- wp:buttons -->
-    <div class="wp-block-buttons">
-      <!-- wp:button {"url":"/admin/","className":"brv-cart-checkout"} -->
-      <div class="wp-block-button brv-cart-checkout"><a class="wp-block-button__link wp-element-button" href="/admin/">Finalizar pedido</a></div>
-      <!-- /wp:button -->
-    </div>
-    <!-- /wp:buttons -->
-  </div>
-  <!-- /wp:group -->
-</div>
-<!-- /wp:group -->

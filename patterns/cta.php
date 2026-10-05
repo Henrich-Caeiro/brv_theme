@@ -26,8 +26,8 @@ register_block_pattern(
 			<div class="wp-block-column has-text-align-right" style="flex-basis:40%">
 				<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right"}} -->
 				<div class="wp-block-buttons">
-					<!-- wp:button {"url":"/agendar/","className":"primary-button site-book-button"} -->
-					<div class="wp-block-button primary-button site-book-button"><a class="wp-block-button__link wp-element-button" href="/agendar/">Agendar Agora</a></div>
+					<!-- wp:button {"url":"https://sites.appbarber.com.br/barbeariarogerv-ji0g","className":"primary-button site-book-button"} -->
+					<div class="wp-block-button primary-button site-book-button"><a class="wp-block-button__link wp-element-button" href="https://sites.appbarber.com.br/barbeariarogerv-ji0g" target="_blank" rel="noopener noreferrer">Agendar Agora</a></div>
 					<!-- /wp:button -->
 				</div>
 				<!-- /wp:buttons -->

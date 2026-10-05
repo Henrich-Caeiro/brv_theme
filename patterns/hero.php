@@ -30,7 +30,7 @@ register_block_pattern(
 		<!-- wp:buttons {"className":"brv-hero__actions"} -->
 		<div class="wp-block-buttons brv-hero__actions">
 			<!-- wp:button {"className":"primary-button"} -->
-			<div class="wp-block-button primary-button"><a class="wp-block-button__link wp-element-button" href="/agendar/">Agendar Horário</a></div>
+			<div class="wp-block-button primary-button"><a class="wp-block-button__link wp-element-button" href="https://sites.appbarber.com.br/barbeariarogerv-ji0g" target="_blank" rel="noopener noreferrer">Agendar Horário</a></div>
 			<!-- /wp:button -->
 			<!-- wp:button {"className":"secondary-button"} -->
 			<div class="wp-block-button secondary-button"><a class="wp-block-button__link wp-element-button" href="#services">Conhecer Serviços</a></div>
